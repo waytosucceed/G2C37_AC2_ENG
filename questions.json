@@ -1,0 +1,202 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Where did the story take place?",
+        "options": [
+            "In a city",
+            "In a jungle",
+            "In a house"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Why were the animals scared of the lion?",
+        "options": [
+            "Because the lion was friendly",
+            "Because the lion ate weaker animals",
+            "Because the lion helped the animals"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Why did the lion become very angry when the rabbit arrived?",
+        "options": [
+            "The rabbit was late and talked about another lion",
+            "The rabbit brought other animals with him",
+            "The rabbit refused to visit the lion"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Look at the picture and choose the correct sentence:<br><img width='40%' src='1.jpg'>",
+        "options": [
+            "An elephant is walking over the water.",
+            "An elephant is bathing in the pond.",
+            "An elephant is drinking water from the pond."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Choose the adjective:",
+        "options": [
+            "Loud",
+            "Perfectly",
+            "Hopefully"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Find the adjective that compares:<br>\"My house is smaller than my friend's house.\"",
+        "options": [
+            "Smaller",
+            "House",
+            "Friend's"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Find the adjective that compares:<br>\"This is the tallest tree in the park.\"",
+        "options": [
+            "Park",
+            "Tree",
+            "Tallest"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Find the adjective that compares:<br>\"This tree is taller than that tree.\"",
+        "options": [
+            "Taller",
+            "Tree",
+            "This"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Find the adjective that compares:<br>\"That was the funniest joke I have ever heard.\"",
+        "options": [
+            "Joke",
+            "Funniest",
+            "Heard"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Find the adjective that compares:<br>\"The cat is softer than the dog.\"",
+        "options": [
+            "Cat",
+            "Dog",
+            "Softer"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Fill in the blank:<br> \"This puzzle is ______ than the last one.\"",
+        "options": [
+            "Easy",
+            "Easier",
+            "Easiest"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blank:<br> \"This book is ______ than that one.\"",
+        "options": [
+            "Good",
+            "Better",
+            "Best"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank:<br> \"This is the ______ movie I have ever seen.\"",
+        "options": [
+            "Scary",
+            "Scarier",
+            "Scariest"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Fill in the blank:<br> \"This is the ______ flower in the garden.\"",
+        "options": [
+            "Prettiest",
+            "Prettier",
+            "Pretty"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Fill in the blank:<br> \"She is ______ than her brother.\"",
+        "options": [
+            "Smart",
+            "Smarter",
+            "Smartest"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which of the following is a comparative adjective?",
+        "options": [
+            "Smallest",
+            "Smaller",
+            "Most beautiful"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Which of the following is a superlative adjective?",
+        "options": [
+            "Brighter",
+            "Bright",
+            "Brightest"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which of the following is a comparative adjective?",
+        "options": [
+            "Happy",
+            "Happiest",
+            "Happier"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which of the following is a superlative adjective?",
+        "options": [
+            "Faster",
+            "Fastest",
+            "Fast"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which of the following is a superlative adjective?",
+        "options": [
+            "Colder",
+            "Cold",
+            "Coldest"
+        ],
+        "correct": 2
+    }
+]
